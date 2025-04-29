@@ -1,6 +1,6 @@
 package ch02.lecture;
 
-public class Ccharacher {
+public class C07characher {
     public static void main(String[] args) {
         // char 문자열
         // 하나으 문자를 저장하는 자료형

@@ -1,4 +1,4 @@
-package ch03.lecture;
+package ch02.lecture;
 
 public class C01Variable {
     public static void main(String[] args) {

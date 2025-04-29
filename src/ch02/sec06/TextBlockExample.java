@@ -7,7 +7,7 @@ public class TextBlockExample {
                 "\t\"id\":\"winter\",\n" +
                 "\t\"name\":\"눈송이\"\n" +
                 "}";
-        String 6hour = "age";
+//        String 6hour = "age";
         String str2 = """
                 {
                     "id":"winter",
