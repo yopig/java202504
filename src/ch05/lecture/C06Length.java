@@ -7,6 +7,8 @@ public class C06Length {
             System.out.println(a[i]);
         }
         //length 속성 : 배열의 길이
-        System.out.println(a.length);
+        System.out.println(a[a.length]);
+
+        System.out.println(a[a.length - 1]);
     }
 }
